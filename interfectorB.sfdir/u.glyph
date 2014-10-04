@@ -1,7 +1,7 @@
 StartChar: u
 Encoding: 117 117 85
 Width: 1855
-Flags: WO
+Flags: W
 TtInstrs:
 PUSHW_1
  88
