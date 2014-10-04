@@ -1,9 +1,10 @@
 StartChar: agrave
-Encoding: 224 224 155
-Width: 1777
+Encoding: 224 224 149
+Width: 1878
 VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 62 96 N 1 0 0 1 488.427 882.799 2
+Refer: 62 96 N 1 0 0 1 538.427 882.799 2
 Refer: 63 97 N 1 0 0 1 0 0 3
 EndChar

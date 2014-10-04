@@ -1,6 +1,6 @@
 StartChar: n
 Encoding: 110 110 74
-Width: 1862
+Width: 1878
 Flags: W
 TtInstrs:
 PUSHW_1
@@ -61,5 +61,4 @@ SplineSet
  530 1229 l 1,7,-1
  530 0 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
