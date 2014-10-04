@@ -1,0 +1,1 @@
+Font 'interfectorB' -> 'interfector beatus'.
