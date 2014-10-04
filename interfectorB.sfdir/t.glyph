@@ -1,5 +1,5 @@
 StartChar: t
-Encoding: 116 116 84
+Encoding: 116 116 80
 Width: 1827
 Flags: W
 TtInstrs:
@@ -49,9 +49,9 @@ SplineSet
  1748 410 l 1,6,-1
  1748 0 l 1,7,-1
  110 0 l 1,8,-1
+NamedP: "1638" 
  110 2048 l 1,9,-1
  520 2048 l 1,10,-1
  520 2048 l 1,0,-1
 EndSplineSet
-Validated: 5
 EndChar

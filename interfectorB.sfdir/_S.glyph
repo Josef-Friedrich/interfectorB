@@ -1,7 +1,7 @@
 StartChar: S
-Encoding: 83 83 51
+Encoding: 83 83 50
 Width: 2108
-Flags: WO
+Flags: W
 TtInstrs:
 PUSHW_1
  88
