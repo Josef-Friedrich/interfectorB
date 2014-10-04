@@ -19,14 +19,14 @@ FSType: 512
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1412325675
-ModificationTime: 1412327686
+CreationTime: 1412327691
+ModificationTime: 1412403716
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-Panose: 3 15 7 2 3 3 2 2 2 4
+Panose: 2 15 7 2 3 3 2 2 2 4
 OS2TypoAscent: 1638
 OS2TypoAOffset: 0
 OS2TypoDescent: -597
@@ -4291,7 +4291,23 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 80 20 9
+WinInfo: 20 20 9
 BeginPrivate: 0
 EndPrivate
+Grid
+1708 0 m 25
+ 1708 2048 l 1053
+70 0 m 25
+ 70 2048 l 1049
+0 2048 m 25
+NamedP: "Oberkante Kleinbuchstaben" 
+ 2048 2048 l 25
+ 0 2048 l 25
+NamedP: "Oberkante Kleinbuchstaben" 
+0 2304 m 25
+NamedP: "Oberkante Gro+AN8A-buchstaben" 
+ 2048 2304 l 1049
+0 1843 m 25
+ 2048 1843 l 1049
+EndSplineSet
 EndSplineFont

@@ -1,7 +1,7 @@
 StartChar: u
 Encoding: 117 117 85
 Width: 1855
-Flags: W
+Flags: WO
 TtInstrs:
 PUSHW_1
  88
@@ -74,5 +74,4 @@ SplineSet
  500 1638 l 1,8,-1
  500 1638 l 1,0,-1
 EndSplineSet
-Validated: 5
 EndChar
