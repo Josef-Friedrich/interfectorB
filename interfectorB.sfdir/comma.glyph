@@ -1,5 +1,5 @@
 StartChar: comma
-Encoding: 44 44 12
+Encoding: 44 44 10
 Width: 650
 Flags: W
 LayerCount: 2
@@ -11,4 +11,5 @@ SplineSet
  530 410 l 1,3,-1
  530 -459 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar

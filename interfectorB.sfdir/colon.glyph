@@ -1,5 +1,5 @@
 StartChar: colon
-Encoding: 58 58 25
+Encoding: 58 58 23
 Width: 650
 Flags: W
 LayerCount: 2
@@ -16,4 +16,5 @@ SplineSet
  530 410 l 5,7,-1
  530 0 l 5,4,-1
 EndSplineSet
+Validated: 1
 EndChar

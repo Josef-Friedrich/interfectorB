@@ -19,8 +19,8 @@ FSType: 512
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1412510287
-ModificationTime: 1412510913
+CreationTime: 1412511161
+ModificationTime: 1412535852
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -4285,14 +4285,13 @@ LangName: 1027 "" "" "Normal"
 LangName: 1069 "" "" "Arrunta" 
 LangName: 1033 "" "" "Regular" "" "" "Version 2.20" 
 GaspTable: 3 8 2 15 1 65535 3 0
-Encoding: ISO8859-1
-Compacted: 1
+Encoding: iso8859-15
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 17 5
+WinInfo: 0 16 7
 BeginPrivate: 0
 EndPrivate
 Grid

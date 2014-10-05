@@ -1,5 +1,5 @@
 StartChar: semicolon
-Encoding: 59 59 26
+Encoding: 59 59 24
 AltUni2: 00037e.ffffffff.0
 Width: 650
 Flags: W
@@ -17,4 +17,5 @@ SplineSet
  530 410 l 1,7,-1
  530 -459 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: dieresis
-Encoding: 168 168 92
+Encoding: 258 168 89
 Width: 1878
 VWidth: 0
 Flags: W
@@ -17,4 +17,5 @@ SplineSet
  120 1843 l 1,7,-1
  120 2048 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: question
-Encoding: 63 63 30
+Encoding: 63 63 28
 Width: 1262
 InSpiro: 1
 Flags: W
@@ -43,4 +43,5 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
+Validated: 1
 EndChar
