@@ -1,15 +1,15 @@
 StartChar: period
 Encoding: 46 46 14
-Width: 592
+Width: 650
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-510 0 m 1,0,-1
- 100 0 l 1,1,-1
- 100 410 l 1,2,-1
- 510 410 l 1,3,-1
- 510 0 l 1,0,-1
+530 0 m 1,0,-1
+ 120 0 l 1,1,-1
+ 120 410 l 1,2,-1
+ 530 410 l 1,3,-1
+ 530 0 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

@@ -2,112 +2,25 @@ StartChar: w
 Encoding: 119 119 83
 Width: 2710
 Flags: W
-TtInstrs:
-PUSHW_1
- 88
-CALL
-PUSHW_1
- 16
-MDAP[rnd]
-PUSHW_1
- 2
-MDAP[rnd]
-PUSHW_1
- 1
-MDRP[rp0,min,rnd,grey]
-PUSHW_1
- 16
-SRP0
-PUSHW_1
- 5
-MDRP[rp0,grey]
-PUSHW_1
- 5
-MDAP[rnd]
-PUSHW_1
- 4
-MDRP[rp0,min,rnd,grey]
-PUSHW_1
- 7
-MDRP[rp0,grey]
-PUSHW_3
- 8
- 5
- 1
-SRP1
-SRP2
-IP
-PUSHW_1
- 2
-SRP0
-PUSHW_1
- 9
-MDRP[rp0,grey]
-PUSHW_1
- 1
-SRP0
-PUSHW_1
- 11
-MDRP[rp0,grey]
-SVTCA[y-axis]
-PUSHW_1
- 1
-MDAP[rnd]
-PUSHW_1
- 4
-MDAP[rnd]
-PUSHW_1
- 6
-MDAP[rnd]
-PUSHW_1
- 10
-MDAP[rnd]
-PUSHW_1
- 13
-MDAP[rnd]
-PUSHW_3
- 3
- 1
- 6
-SRP1
-SRP2
-IP
-PUSHW_3
- 8
- 1
- 6
-SRP1
-SRP2
-IP
-PUSHW_3
- 12
- 1
- 6
-SRP1
-SRP2
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-2590 1229 m 1,0,-1
- 1361 0 l 1,1,-1
- 951 0 l 1,2,-1
- 951 422 l 1,3,-1
- 530 0 l 1,4,-1
- 120 0 l 1,5,-1
- 120 1638 l 1,6,-1
- 530 1638 l 1,7,-1
- 530 614 l 1,8,-1
- 951 1036 l 1,9,-1
- 951 1638 l 1,10,-1
- 1361 1638 l 1,11,-1
- 1361 614 l 1,12,-1
- 2385 1638 l 1,13,-1
- 2590 1638 l 1,14,-1
- 2590 1229 l 1,15,-1
- 2590 1229 l 1,0,-1
+1361 0 m 1,0,-1
+ 951 0 l 1,1,-1
+ 951 422 l 1,2,-1
+ 530 0 l 1,3,-1
+ 120 0 l 1,4,-1
+ 120 1638 l 1,5,-1
+ 530 1638 l 1,6,-1
+ 530 614 l 1,7,-1
+ 951 1036 l 1,8,-1
+ 951 1638 l 1,9,-1
+ 1361 1638 l 1,10,-1
+ 1361 614 l 1,11,-1
+ 2385 1638 l 1,12,-1
+ 2590 1638 l 1,13,-1
+ 2590 1229 l 1,14,-1
+ 1361 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar

@@ -2,52 +2,6 @@ StartChar: N
 Encoding: 78 78 45
 Width: 2083
 Flags: W
-TtInstrs:
-PUSHW_1
- 88
-CALL
-PUSHW_1
- 8
-MDAP[rnd]
-PUSHW_1
- 5
-MDAP[rnd]
-PUSHW_1
- 8
-SRP0
-PUSHW_1
- 1
-MDRP[rp0,grey]
-PUSHW_1
- 1
-MDAP[rnd]
-PUSHW_1
- 0
-MDRP[rp0,min,rnd,grey]
-PUSHW_1
- 5
-SRP0
-PUSHW_1
- 4
-MDRP[rp0,min,rnd,grey]
-PUSHW_1
- 9
-MDRP[rp0,min,rnd,grey]
-SVTCA[y-axis]
-PUSHW_1
- 0
-MDAP[rnd]
-PUSHW_1
- 4
-MDAP[rnd]
-PUSHW_3
- 3
- 6
- 91
-CALL
-IUP[y]
-IUP[x]
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
@@ -61,4 +15,5 @@ SplineSet
  581 1382 l 1,7,-1
  581 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
