@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1412501061
-ModificationTime: 1412502812
+ModificationTime: 1412504676
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -4291,37 +4291,39 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 91 13 4
+WinInfo: 84 14 4
 BeginPrivate: 0
 EndPrivate
 Grid
-1349 0 m 25
+1349 -520 m 25
 NamedP: "2/3 End X" 
- 1349 2048 l 1049
-1212 0 m 25
+ 1349 2500 l 1049
+1212 -520 m 25
 NamedP: "2/3 End x" 
- 1212 2048 l 1049
-1758 0 m 1
+ 1212 2500 l 1049
+1758 -520 m 1
 NamedP: "End x" 
- 1758 2048 l 1049
-1963 2048 m 25
- 1963 0 l 25
+ 1758 2500 l 1049
+1963 2500 m 25
+ 1963 -520 l 1049
 NamedP: "End X" 
- -410 0 l 25
- -410 2048 l 1049
-120 0 m 25
+120 -520 m 25
 NamedP: "Beginn Buchstaben" 
- 120 2048 l 1049
-0 2048 m 25
+ 120 2500 l 1049
+NamedP: "120" 
+-560 2048 m 25
 NamedP: "Oberkante Kleinbuchstaben" 
  2048 2048 l 25
- 0 2048 l 25
+NamedP: "2048" 
+ -560 2048 l 25
 NamedP: "Oberkante Kleinbuchstaben" 
-0 2304 m 25
+-560 2304 m 25
 NamedP: "Oberkante Gro+AN8A-buchstaben" 
  2048 2304 l 1049
-0 1843 m 25
+NamedP: "2304" 
+-560 1843 m 25
  2048 1843 l 1049
+NamedP: "1843" 
 EndSplineSet
 TeXData: 1 0 0 409600 204800 136533 837632 -1048576 136533 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 EndSplineFont
