@@ -1,5 +1,5 @@
-StartChar: udieresis
-Encoding: 252 252 92
+StartChar: asciicircum
+Encoding: 94 94 148
 Width: 1878
 Flags: W
 LayerCount: 2

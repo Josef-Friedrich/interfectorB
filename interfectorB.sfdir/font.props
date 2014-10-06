@@ -19,8 +19,8 @@ FSType: 512
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1412511161
-ModificationTime: 1412535852
+CreationTime: 1412635559
+ModificationTime: 1412636425
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -4291,7 +4291,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 16 7
+WinInfo: 187 11 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -4307,13 +4307,17 @@ NamedP: "1638"
 1349 -520 m 25
 NamedP: "2/3 End X" 
  1349 2500 l 1049
+NamedP: "1349" 
 1212 -520 m 25
 NamedP: "2/3 End x" 
  1212 2500 l 1049
+NamedP: "1212" 
 1758 -520 m 1
 NamedP: "End x" 
  1758 2500 l 1049
+NamedP: "1758" 
 1963 2500 m 25
+NamedP: "1963" 
  1963 -520 l 1049
 NamedP: "End X" 
 120 -520 m 25
