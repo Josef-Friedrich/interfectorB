@@ -1,6 +1,6 @@
 StartChar: exclam
 Encoding: 33 33 1
-Width: 650
+Width: 614
 Flags: W
 TtInstrs:
 PUSHW_1
@@ -44,16 +44,16 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-120 410 m 1,0,-1
- 530 410 l 1,1,-1
- 530 0 l 1,2,-1
- 120 0 l 1,3,-1
- 120 410 l 1,0,-1
-530 2304 m 1,4,-1
- 530 820 l 1,5,-1
- 120 820 l 1,6,-1
- 120 2304 l 1,7,-1
- 530 2304 l 1,4,-1
+102 410 m 1,0,-1
+ 512 410 l 1,1,-1
+ 512 0 l 1,2,-1
+ 102 0 l 1,3,-1
+ 102 410 l 1,0,-1
+512 2304 m 1,4,-1
+ 512 820 l 1,5,-1
+ 102 820 l 1,6,-1
+ 102 2304 l 1,7,-1
+ 512 2304 l 1,4,-1
 EndSplineSet
 Validated: 1
 EndChar

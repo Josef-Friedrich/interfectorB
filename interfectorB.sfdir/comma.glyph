@@ -1,15 +1,15 @@
 StartChar: comma
 Encoding: 44 44 10
-Width: 650
+Width: 614
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-530 -459 m 1,0,-1
- 120 -459 l 1,1,-1
- 120 410 l 1,2,-1
- 530 410 l 1,3,-1
- 530 -459 l 1,0,-1
+512 -459 m 1,0,-1
+ 102 -459 l 1,1,-1
+ 102 410 l 1,2,-1
+ 512 410 l 1,3,-1
+ 512 -459 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

@@ -19,10 +19,10 @@ FSType: 512
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1412635559
-ModificationTime: 1412636425
+CreationTime: 1412712046
+ModificationTime: 1412715525
 PfmFamily: 65
-TTFWeight: 400
+TTFWeight: 700
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
@@ -54,6 +54,7 @@ OS2FamilyClass: 2568
 OS2Vendor: 'MS  '
 OS2CodePages: 00000003.00000000
 OS2UnicodeRanges: 0000000f.00000000.00000000.00000000
+Lookup: 4 0 1 "Latin Ligatures"  {"Latin Ligatures-1"  } ['liga' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
@@ -4283,7 +4284,7 @@ LangName: 1030 "" "" "normal"
 LangName: 1029 "" "" "oby+AQ0A-ejn+AOkA" 
 LangName: 1027 "" "" "Normal" 
 LangName: 1069 "" "" "Arrunta" 
-LangName: 1033 "" "" "Regular" "" "" "Version 2.20" 
+LangName: 1033 "" "" "Bold" "" "" "Version 2.20" 
 GaspTable: 3 8 2 15 1 65535 3 0
 Encoding: iso8859-15
 UnicodeInterp: none
@@ -4291,7 +4292,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 187 11 5
+WinInfo: 48 16 7
 BeginPrivate: 0
 EndPrivate
 Grid

@@ -1,6 +1,6 @@
 StartChar: backslash
 Encoding: 92 92 56
-Width: 1520
+Width: 1682
 Flags: W
 TtInstrs:
 PUSHW_1
@@ -19,11 +19,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-1497 -462 m 5,0,-1
- 1118 -619 l 5,1,-1
- 19 2030 l 5,2,-1
- 398 2187 l 5,3,-1
- 1497 -462 l 5,0,-1
+1580 -462 m 5,0,-1
+ 1201 -619 l 5,1,-1
+ 102 2030 l 5,2,-1
+ 481 2187 l 5,3,-1
+ 1580 -462 l 5,0,-1
 EndSplineSet
 Validated: 1
 EndChar

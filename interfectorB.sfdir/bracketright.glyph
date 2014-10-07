@@ -1,6 +1,6 @@
 StartChar: bracketright
 Encoding: 93 93 57
-Width: 771
+Width: 1023
 Flags: W
 TtInstrs:
 PUSHW_1
@@ -34,15 +34,15 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
--221 -641 m 1,0,-1
- -221 -231 l 1,1,-1
- 188 -231 l 1,2,-1
- 188 1816 l 1,3,-1
- -221 1816 l 1,4,-1
- -221 2226 l 1,5,-1
- 598 2226 l 1,6,-1
- 598 -641 l 1,7,-1
- -221 -641 l 1,0,-1
+102 -641 m 1,0,-1
+ 102 -231 l 1,1,-1
+ 511 -231 l 1,2,-1
+ 511 1816 l 1,3,-1
+ 102 1816 l 1,4,-1
+ 102 2226 l 1,5,-1
+ 921 2226 l 1,6,-1
+ 921 -641 l 1,7,-1
+ 102 -641 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar
